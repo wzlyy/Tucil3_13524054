@@ -1,0 +1,63 @@
+Input File: test\testcase2.txt
+Algoritma: UCS
+Heuristic: -
+
+Status: Solusi ditemukan.
+Solusi Yang Ditemukan: DLURD
+Cost dari Solusi: 0
+Waktu Eksekusi: 0.143 ms
+Banyak Iterasi: 6
+
+Initial
+XXXXXXXXXXX
+XXXXXXXXXXX
+X********XX
+X*XX*XXX*XX
+X*XXZ***OXX
+X****XXXXXX
+XXXXXXXXXXX
+
+Step 1 : D
+XXXXXXXXXXX
+XXXXXXXXXXX
+X********XX
+X*XX*XXX*XX
+X*XX****OXX
+X***ZXXXXXX
+XXXXXXXXXXX
+
+Step 2 : L
+XXXXXXXXXXX
+XXXXXXXXXXX
+X********XX
+X*XX*XXX*XX
+X*XX****OXX
+XZ***XXXXXX
+XXXXXXXXXXX
+
+Step 3 : U
+XXXXXXXXXXX
+XXXXXXXXXXX
+XZ*******XX
+X*XX*XXX*XX
+X*XX****OXX
+X****XXXXXX
+XXXXXXXXXXX
+
+Step 4 : R
+XXXXXXXXXXX
+XXXXXXXXXXX
+X*******ZXX
+X*XX*XXX*XX
+X*XX****OXX
+X****XXXXXX
+XXXXXXXXXXX
+
+Step 5 : D
+XXXXXXXXXXX
+XXXXXXXXXXX
+X********XX
+X*XX*XXX*XX
+X*XX****ZXX
+X****XXXXXX
+XXXXXXXXXXX

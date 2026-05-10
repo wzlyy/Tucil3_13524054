@@ -1,0 +1,33 @@
+Input File: test\testcase4.txt
+Algoritma: GBFS
+Heuristic: H1
+
+Status: Solusi ditemukan.
+Solusi Yang Ditemukan: DRU
+Cost dari Solusi: 10
+Waktu Eksekusi: 0.086 ms
+Banyak Iterasi: 4
+
+Initial
+XXXXXXX
+XZ*L*OX
+X*****X
+XXXXXXX
+
+Step 1 : D
+XXXXXXX
+X**L*OX
+XZ****X
+XXXXXXX
+
+Step 2 : R
+XXXXXXX
+X**L*OX
+X****ZX
+XXXXXXX
+
+Step 3 : U
+XXXXXXX
+X**L*ZX
+X*****X
+XXXXXXX

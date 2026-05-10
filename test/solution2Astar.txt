@@ -1,0 +1,45 @@
+Input File: test\testcase2.txt
+Algoritma: A*
+Heuristic: H1
+
+Status: Solusi ditemukan.
+Solusi Yang Ditemukan: URD
+Cost dari Solusi: 2
+Waktu Eksekusi: 0.129 ms
+Banyak Iterasi: 5
+
+Initial
+XXXXXXXXXXX
+XXXXXXXXXXX
+X********XX
+X*XX*XXX*XX
+X*XXZ***OXX
+X****XXXXXX
+XXXXXXXXXXX
+
+Step 1 : U
+XXXXXXXXXXX
+XXXXXXXXXXX
+X***Z****XX
+X*XX*XXX*XX
+X*XX****OXX
+X****XXXXXX
+XXXXXXXXXXX
+
+Step 2 : R
+XXXXXXXXXXX
+XXXXXXXXXXX
+X*******ZXX
+X*XX*XXX*XX
+X*XX****OXX
+X****XXXXXX
+XXXXXXXXXXX
+
+Step 3 : D
+XXXXXXXXXXX
+XXXXXXXXXXX
+X********XX
+X*XX*XXX*XX
+X*XX****ZXX
+X****XXXXXX
+XXXXXXXXXXX

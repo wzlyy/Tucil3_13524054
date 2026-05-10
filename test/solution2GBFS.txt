@@ -1,0 +1,27 @@
+Input File: test\testcase2.txt
+Algoritma: GBFS
+Heuristic: H1
+
+Status: Solusi ditemukan.
+Solusi Yang Ditemukan: R
+Cost dari Solusi: 90
+Waktu Eksekusi: 0.076 ms
+Banyak Iterasi: 2
+
+Initial
+XXXXXXXXXXX
+XXXXXXXXXXX
+X********XX
+X*XX*XXX*XX
+X*XXZ***OXX
+X****XXXXXX
+XXXXXXXXXXX
+
+Step 1 : R
+XXXXXXXXXXX
+XXXXXXXXXXX
+X********XX
+X*XX*XXX*XX
+X*XX****ZXX
+X****XXXXXX
+XXXXXXXXXXX
